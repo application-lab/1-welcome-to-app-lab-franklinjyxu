@@ -1,22 +1,12 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hello! My name is Franklin Jingyuan Xu and I am a Shanghai campus senior studying Business and Finance. I am originally from Ningbo, China, a lovely medium-sized port city with a lot of charm. I am very passionate about travelling, photography,coffee culture, portfolio management and architectural designs. 
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+I spent my last year in NYC and Berlin and extensively travelled across North America, Europe and Middle East. Observing various cultural practices, urban design ideas and life mentalities offers me inpirations in life. My dream is to combine the discrete dots of my passion and gives form to a full entity even though I don't yet have any idea of how. 
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+Seeing the aftermath of decade-long QE and an irritating new norm of global stagnation, I don't view advances of financial engineering as a positive force for efficient capital allocation. The many humane & environmental factors neglected in the seemingly reasonable quantitative transformations are something I am pursuing to explore. I definitely look forward to this design-driven technology class that takes in debate over ethics, social values, and many other elements that today's tech giants and new-gen tech builders shall concern about.
+
+
+
 
 
 
