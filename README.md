@@ -1,5 +1,5 @@
 # About Me
-Hello! My name is Franklin Jingyuan Xu and I am a Shanghai campus senior studying Business and Finance. I am originally from Ningbo, China, a lovely medium-sized port city with a lot of charm. I am very passionate about travelling, photography,coffee culture, portfolio management and architectural designs. 
+Hello! My name is Franklin Jingyuan Xu and I am a Shanghai campus senior studying Business and Finance. I am originally from Ningbo, China, a lovely medium-sized port city with a lot of charm. I am very passionate about travelling, photography, coffee culture, portfolio management and architectural designs. 
 
 I spent my last year in NYC and Berlin and extensively travelled across North America, Europe and Middle East. Observing various cultural practices, urban design ideas and life mentalities offers me inpirations in life. My dream is to combine the discrete dots of my passion and gives form to a full entity even though I don't yet have any idea of how. 
 
